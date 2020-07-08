@@ -50,3 +50,13 @@ body {
     text-align: center;
 
 }
+
+#winner {
+    padding: 2em;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.hover:hover {
+    color: #8080803d;
+}
